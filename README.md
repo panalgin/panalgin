@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Panalgin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panalgin&show_icons=true&theme=radical)
+[![wakatime](https://wakatime.com/badge/user/31c94074-2655-46bc-8ae7-3107f50985ea.svg)](https://wakatime.com/@31c94074-2655-46bc-8ae7-3107f50985ea)
