@@ -72,6 +72,7 @@ Hello! I'm **Mustafa**, a **senior full-stack developer** with nearly **10 years
     <td style="vertical-align: middle; line-height: 0;">
       <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" style="vertical-align: middle; margin: 2px 2px;"/>
       <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework" style="vertical-align: middle; margin: 2px 2px;"/>
     </td>
   </tr>
   <tr style="vertical-align: middle; line-height: 0;">
