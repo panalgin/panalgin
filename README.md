@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mustafa+%F0%9F%91%8B;Full-Stack+Developer+%7C+Problem+Solver;Building+scalable+solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <h1>Mustafa Yıldız</h1>
+  <h3>Senior Full-Stack Developer</h3>
   
   <a href="https://linkedin.com/in/mashadow" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.upwork.com/freelancers/myildiz" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork"/></a>
