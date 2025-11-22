@@ -3,7 +3,7 @@
   
   <a href="https://linkedin.com/in/mashadow" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.upwork.com/freelancers/myildiz" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:mashadow@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/panalgin" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly"/></a>
 </div>
@@ -12,158 +12,217 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const mustafa = {
-  role: "Full-Stack Developer",
-  location: "Turkey",
-  languages: ["TypeScript", "Dart", "C++", "C"],
-  frameworks: ["React", "Node.js", "NestJS", "Flutter"],
-  databases: ["Redis", "RabbitMQ", "MongoDB", "MySQL", "PostgreSQL"],
-  cloud: ["AWS", "Kubernetes"],
-  tools: ["Docker", "Git"],
-  currentlyLearning: "Cloud Architecture & Microservices",
-  funFact: "I turn coffee into code ☕ → 💻"
-};
-```
+Hello! I'm **Mustafa**, a **senior full-stack developer** with nearly **10 years of professional experience**. I've been coding since **2004**, building scalable web and mobile applications across various industries.
+
+- 🔭 Currently working on **scalable web and mobile applications** with modern tech stacks
+- 💼 **~10 years** of professional development experience | Coding since **2004**
+- 🌱 Continuously learning **cloud architecture**, **microservices**, and **AI-powered development**
+- 👯 Looking to collaborate on **open source projects** and innovative solutions
+- 💬 Ask me about **TypeScript, Dart, C++, Node.js, NestJS, React, Flutter, Redis, RabbitMQ, MongoDB, AWS, Kubernetes**
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/mashadow) | [Upwork](https://www.upwork.com/freelancers/myildiz) | [Email](mailto:mashadow@outlook.com)
+- ⚡ Fun fact: I love solving complex problems and constantly exploring new technologies
 
 ## 🛠️ Tech Stack
 
-**Languages:** 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**Frontend:** 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-**Backend:** 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-
-**Databases & Messaging:** 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-**Cloud & DevOps:** 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<table>
+  <tr style="vertical-align: middle; line-height: 0;">
+    <td style="vertical-align: middle; padding-right: 10px; line-height: 1;"><strong>Languages:</strong></td>
+    <td style="vertical-align: middle; line-height: 0;">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" style="vertical-align: middle; margin: 2px 2px;"/>
+    </td>
+  </tr>
+  <tr style="vertical-align: middle; line-height: 0;">
+    <td style="vertical-align: middle; padding-right: 10px; line-height: 1;"><strong>Frontend:</strong></td>
+    <td style="vertical-align: middle; line-height: 0;">
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor" style="vertical-align: middle; margin: 2px 2px;"/>
+    </td>
+  </tr>
+  <tr style="vertical-align: middle; line-height: 0;">
+    <td style="vertical-align: middle; padding-right: 10px; line-height: 1;"><strong>State Management:</strong></td>
+    <td style="vertical-align: middle; line-height: 0;">
+      <img src="https://img.shields.io/badge/Jotai-000000?style=flat-square&logoColor=white" alt="Jotai" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Bloc-000000?style=flat-square&logoColor=white" alt="Bloc" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Riverpod-000000?style=flat-square&logoColor=white" alt="Riverpod" style="vertical-align: middle; margin: 2px 2px;"/>
+    </td>
+  </tr>
+  <tr style="vertical-align: middle; line-height: 0;">
+    <td style="vertical-align: middle; padding-right: 10px; line-height: 1;"><strong>Backend:</strong></td>
+    <td style="vertical-align: middle; line-height: 0;">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/MedusaJS-7C3AED?style=flat-square&logoColor=white" alt="MedusaJS" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=grpc&logoColor=white" alt="gRPC" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" style="vertical-align: middle; margin: 2px 2px;"/>
+    </td>
+  </tr>
+  <tr style="vertical-align: middle; line-height: 0;">
+    <td style="vertical-align: middle; padding-right: 10px; line-height: 1;"><strong>ORM/ODM:</strong></td>
+    <td style="vertical-align: middle; line-height: 0;">
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" style="vertical-align: middle; margin: 2px 2px;"/>
+    </td>
+  </tr>
+  <tr style="vertical-align: middle; line-height: 0;">
+    <td style="vertical-align: middle; padding-right: 10px; line-height: 1;"><strong>Databases & Messaging:</strong></td>
+    <td style="vertical-align: middle; line-height: 0;">
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" style="vertical-align: middle; margin: 2px 2px;"/>
+    </td>
+  </tr>
+  <tr style="vertical-align: middle; line-height: 0;">
+    <td style="vertical-align: middle; padding-right: 10px; line-height: 1;"><strong>Testing:</strong></td>
+    <td style="vertical-align: middle; line-height: 0;">
+      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Mockito-78A135?style=flat-square&logoColor=white" alt="Mockito" style="vertical-align: middle; margin: 2px 2px;"/>
+    </td>
+  </tr>
+  <tr style="vertical-align: middle; line-height: 0;">
+    <td style="vertical-align: middle; padding-right: 10px; line-height: 1;"><strong>Development Tools:</strong></td>
+    <td style="vertical-align: middle; line-height: 0;">
+      <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier" style="vertical-align: middle; margin: 2px 2px;"/>
+    </td>
+  </tr>
+  <tr style="vertical-align: middle; line-height: 0;">
+    <td style="vertical-align: middle; padding-right: 10px; line-height: 1;"><strong>Cloud Platforms:</strong></td>
+    <td style="vertical-align: middle; line-height: 0;">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" style="vertical-align: middle; margin: 2px 2px;"/>
+    </td>
+  </tr>
+  <tr style="vertical-align: middle; line-height: 0;">
+    <td style="vertical-align: middle; padding-right: 10px; line-height: 1;"><strong>DevOps Tools:</strong></td>
+    <td style="vertical-align: middle; line-height: 0;">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" style="vertical-align: middle; margin: 2px 2px;"/>
+    </td>
+  </tr>
+  <tr style="vertical-align: middle; line-height: 0;">
+    <td style="vertical-align: middle; padding-right: 10px; line-height: 1;"><strong>IoT & Embedded:</strong></td>
+    <td style="vertical-align: middle; line-height: 0;">
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" style="vertical-align: middle; margin: 2px 2px;"/>
+    </td>
+  </tr>
+  <tr style="vertical-align: middle; line-height: 0;">
+    <td style="vertical-align: middle; padding-right: 10px; line-height: 1;"><strong>IDE:</strong></td>
+    <td style="vertical-align: middle; line-height: 0;">
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white" alt="WebStorm" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" style="vertical-align: middle; margin: 2px 2px;"/>
+    </td>
+  </tr>
+  <tr style="vertical-align: middle; line-height: 0;">
+    <td style="vertical-align: middle; padding-right: 10px; line-height: 1;"><strong>AI Tools:</strong></td>
+    <td style="vertical-align: middle; line-height: 0;">
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Claude-000000?style=flat-square&logoColor=white" alt="Claude" style="vertical-align: middle; margin: 2px 2px;"/>
+      <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" style="vertical-align: middle; margin: 2px 2px;"/>
+    </td>
+  </tr>
+</table>
 
 ## 🏅 Certifications & Badges
 
 <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank"><img src="https://img.shields.io/badge/View_All_Badges-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="View All Badges"/></a>
 
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
-  <tr style="vertical-align: middle;">
-    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
-      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/17-ibm-full-stack.png" width="150" height="150" style="object-fit: contain;" alt="IBM Full Stack Software Developer Professional Certificate" loading="lazy"/>
+  <tr style="vertical-align: middle; line-height: 1;">
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px; line-height: 1;">
+      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank" style="line-height: 1; display: inline-block;">
+        <img src="assets/badges/17-ibm-full-stack.png" width="150" height="150" style="object-fit: contain; vertical-align: middle; display: block;" alt="IBM Full Stack Software Developer Professional Certificate" loading="lazy"/>
       </a>
     </td>
-    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
-      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/ibm-ai-developer.png" width="150" height="150" style="object-fit: contain;" alt="IBM AI Developer Professional Certificate" loading="lazy"/>
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px; line-height: 1;">
+      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank" style="line-height: 1; display: inline-block;">
+        <img src="assets/badges/ibm-ai-developer.png" width="150" height="150" style="object-fit: contain; vertical-align: middle; display: block;" alt="IBM AI Developer Professional Certificate" loading="lazy"/>
       </a>
     </td>
-    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
-      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/16-ibm-ai-engineering.png" width="150" height="150" style="object-fit: contain;" alt="IBM AI Engineering Professional Certificate" loading="lazy"/>
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px; line-height: 1;">
+      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank" style="line-height: 1; display: inline-block;">
+        <img src="assets/badges/16-ibm-ai-engineering.png" width="150" height="150" style="object-fit: contain; vertical-align: middle; display: block;" alt="IBM AI Engineering Professional Certificate" loading="lazy"/>
       </a>
     </td>
-    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
-      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/02-ibm-data-science.png" width="150" height="150" style="object-fit: contain;" alt="IBM Data Science Professional Certificate" loading="lazy"/>
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px; line-height: 1;">
+      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank" style="line-height: 1; display: inline-block;">
+        <img src="assets/badges/02-ibm-data-science.png" width="150" height="150" style="object-fit: contain; vertical-align: middle; display: block;" alt="IBM Data Science Professional Certificate" loading="lazy"/>
       </a>
     </td>
-    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
-      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/30-google-data-analytics.png" width="150" height="150" style="object-fit: contain;" alt="Google Data Analytics Professional Certificate" loading="lazy"/>
-      </a>
-    </td>
-  </tr>
-  <tr style="vertical-align: middle;">
-    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
-      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/03-meta-android-developer.png" width="150" height="150" style="object-fit: contain;" alt="Meta Android Developer Certificate" loading="lazy"/>
-      </a>
-    </td>
-    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
-      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/04-advanced-deep-learning.png" width="150" height="150" style="object-fit: contain;" alt="Advanced Deep Learning Specialist" loading="lazy"/>
-      </a>
-    </td>
-    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
-      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/15-generative-ai-applications.png" width="150" height="150" style="object-fit: contain;" alt="Generative AI Applications Specialist" loading="lazy"/>
-      </a>
-    </td>
-    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
-      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/05-ai-capstone-deep-learning.png" width="150" height="150" style="object-fit: contain;" alt="AI Capstone Project with Deep Learning" loading="lazy"/>
-      </a>
-    </td>
-    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
-      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/14-full-stack-capstone.png" width="150" height="150" style="object-fit: contain;" alt="Full Stack Application Development Capstone Project V2" loading="lazy"/>
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px; line-height: 1;">
+      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank" style="line-height: 1; display: inline-block;">
+        <img src="assets/badges/30-google-data-analytics.png" width="150" height="150" style="object-fit: contain; vertical-align: middle; display: block;" alt="Google Data Analytics Professional Certificate" loading="lazy"/>
       </a>
     </td>
   </tr>
-  <tr style="vertical-align: middle;">
-    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
-      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/06-microservices-serverless.png" width="150" height="150" style="object-fit: contain;" alt="Application Development using Microservices and Serverless" loading="lazy"/>
+  <tr style="vertical-align: middle; line-height: 1;">
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px; line-height: 1;">
+      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank" style="line-height: 1; display: inline-block;">
+        <img src="assets/badges/03-meta-android-developer.png" width="150" height="150" style="object-fit: contain; vertical-align: middle; display: block;" alt="Meta Android Developer Certificate" loading="lazy"/>
       </a>
     </td>
-    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
-      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/07-kubernetes-essentials.png" width="150" height="150" style="object-fit: contain;" alt="Containers & Kubernetes Essentials" loading="lazy"/>
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px; line-height: 1;">
+      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank" style="line-height: 1; display: inline-block;">
+        <img src="assets/badges/04-advanced-deep-learning.png" width="150" height="150" style="object-fit: contain; vertical-align: middle; display: block;" alt="Advanced Deep Learning Specialist" loading="lazy"/>
       </a>
     </td>
-    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
-      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/13-react-v2.png" width="150" height="150" style="object-fit: contain;" alt="Front-end Development with React V2" loading="lazy"/>
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px; line-height: 1;">
+      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank" style="line-height: 1; display: inline-block;">
+        <img src="assets/badges/15-generative-ai-applications.png" width="150" height="150" style="object-fit: contain; vertical-align: middle; display: block;" alt="Generative AI Applications Specialist" loading="lazy"/>
       </a>
     </td>
-    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px; line-height: 1;">
+      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank" style="line-height: 1; display: inline-block;">
+        <img src="assets/badges/05-ai-capstone-deep-learning.png" width="150" height="150" style="object-fit: contain; vertical-align: middle; display: block;" alt="AI Capstone Project with Deep Learning" loading="lazy"/>
+      </a>
     </td>
-    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px; line-height: 1;">
+      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank" style="line-height: 1; display: inline-block;">
+        <img src="assets/badges/14-full-stack-capstone.png" width="150" height="150" style="object-fit: contain; vertical-align: middle; display: block;" alt="Full Stack Application Development Capstone Project V2" loading="lazy"/>
+      </a>
+    </td>
+  </tr>
+  <tr style="vertical-align: middle; line-height: 1;">
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px; line-height: 1;">
+      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank" style="line-height: 1; display: inline-block;">
+        <img src="assets/badges/06-microservices-serverless.png" width="150" height="150" style="object-fit: contain; vertical-align: middle; display: block;" alt="Application Development using Microservices and Serverless" loading="lazy"/>
+      </a>
+    </td>
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px; line-height: 1;">
+      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank" style="line-height: 1; display: inline-block;">
+        <img src="assets/badges/07-kubernetes-essentials.png" width="150" height="150" style="object-fit: contain; vertical-align: middle; display: block;" alt="Containers & Kubernetes Essentials" loading="lazy"/>
+      </a>
+    </td>
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px; line-height: 1;">
+      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank" style="line-height: 1; display: inline-block;">
+        <img src="assets/badges/13-react-v2.png" width="150" height="150" style="object-fit: contain; vertical-align: middle; display: block;" alt="Front-end Development with React V2" loading="lazy"/>
+      </a>
+    </td>
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px; line-height: 1;">
+    </td>
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px; line-height: 1;">
     </td>
   </tr>
 </table>
 
-## 🌍 About Me
-
-### 🇹🇷 Türkçe
-
-Merhaba! Ben **Mustafa**, full-stack developer'ım. Web ve mobil uygulamalar geliştiriyorum.
-
-- 🔭 Şu anda **scalable web ve mobil uygulamalar** üzerinde çalışıyorum
-- 🌱 **Cloud architecture** ve **microservices** öğreniyorum
-- 👯 **Open source projeler** için işbirliği yapmak istiyorum
-- 💬 Bana **TypeScript, Dart, C++, Node.js, NestJS, Redis, RabbitMQ, MongoDB, MySQL, PostgreSQL** hakkında sorabilirsiniz
-- 📫 Bana ulaşın: [LinkedIn](https://linkedin.com/in/mashadow) | [Upwork](https://www.upwork.com/freelancers/myildiz) | [Email](mailto:your.email@example.com)
-- ⚡ İlginç gerçek: Kod yazmayı seviyorum ve sürekli yeni teknolojiler öğreniyorum
-
-### 🇬🇧 English
-
-Hello! I'm **Mustafa**, a full-stack developer. I build web and mobile applications.
-
-- 🔭 Currently working on **scalable web and mobile applications**
-- 🌱 Learning **cloud architecture** and **microservices**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **TypeScript, Dart, C++, Node.js, NestJS, Redis, RabbitMQ, MongoDB, MySQL, PostgreSQL**
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/mashadow) | [Upwork](https://www.upwork.com/freelancers/myildiz) | [Email](mailto:your.email@example.com)
-- ⚡ Fun fact: I love coding and constantly learning new technologies
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=panalgin&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/panalgin?label=Followers&style=flat-square&color=00D9FF" alt="GitHub Followers"/>
-</div>
