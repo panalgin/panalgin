@@ -105,8 +105,6 @@ const mustafa = {
 <!-- This section will be automatically updated by GitHub Actions -->
 <!--END_SECTION:waka-->
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=panalgin&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF" alt="WakaTime Stats"/>
-
 ## 🌍 About Me
 
 ### 🇹🇷 Türkçe
@@ -132,10 +130,6 @@ Hello! I'm **Mustafa**, a full-stack developer. I build web and mobile applicati
 - 🎯 **Expert**: Redis, RabbitMQ, MongoDB, MySQL, PostgreSQL
 - 📫 Reach me at: [LinkedIn](https://linkedin.com/in/mashadow) | [Upwork](https://www.upwork.com/freelancers/myildiz) | [Email](mailto:your.email@example.com)
 - ⚡ Fun fact: I love coding and constantly learning new technologies
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=panalgin&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies"/>
 
 ---
 
