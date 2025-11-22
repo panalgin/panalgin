@@ -76,69 +76,78 @@ const mustafa = {
 
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
   <tr style="vertical-align: middle;">
-    <td width="25%" align="center" style="vertical-align: middle; padding: 10px;">
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
       <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/17-ibm-full-stack.png" width="120" height="120" style="object-fit: contain;" alt="IBM Full Stack Software Developer Professional Certificate" loading="lazy"/>
+        <img src="assets/badges/17-ibm-full-stack.png" width="150" height="150" style="object-fit: contain;" alt="IBM Full Stack Software Developer Professional Certificate" loading="lazy"/>
       </a>
     </td>
-    <td width="25%" align="center" style="vertical-align: middle; padding: 10px;">
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
       <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/16-ibm-ai-engineering.png" width="120" height="120" style="object-fit: contain;" alt="IBM AI Engineering Professional Certificate" loading="lazy"/>
+        <img src="assets/badges/ibm-ai-developer.png" width="150" height="150" style="object-fit: contain;" alt="IBM AI Developer Professional Certificate" loading="lazy"/>
       </a>
     </td>
-    <td width="25%" align="center" style="vertical-align: middle; padding: 10px;">
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
       <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/02-ibm-data-science.png" width="120" height="120" style="object-fit: contain;" alt="IBM Data Science Professional Certificate" loading="lazy"/>
+        <img src="assets/badges/16-ibm-ai-engineering.png" width="150" height="150" style="object-fit: contain;" alt="IBM AI Engineering Professional Certificate" loading="lazy"/>
       </a>
     </td>
-    <td width="25%" align="center" style="vertical-align: middle; padding: 10px;">
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
       <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/30-google-data-analytics.png" width="120" height="120" style="object-fit: contain;" alt="Google Data Analytics Professional Certificate" loading="lazy"/>
+        <img src="assets/badges/02-ibm-data-science.png" width="150" height="150" style="object-fit: contain;" alt="IBM Data Science Professional Certificate" loading="lazy"/>
       </a>
     </td>
-  </tr>
-  <tr style="vertical-align: middle;">
-    <td width="25%" align="center" style="vertical-align: middle; padding: 10px;">
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
       <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/03-meta-android-developer.png" width="120" height="120" style="object-fit: contain;" alt="Meta Android Developer Certificate" loading="lazy"/>
-      </a>
-    </td>
-    <td width="25%" align="center" style="vertical-align: middle; padding: 10px;">
-      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/04-advanced-deep-learning.png" width="120" height="120" style="object-fit: contain;" alt="Advanced Deep Learning Specialist" loading="lazy"/>
-      </a>
-    </td>
-    <td width="25%" align="center" style="vertical-align: middle; padding: 10px;">
-      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/15-generative-ai-applications.png" width="120" height="120" style="object-fit: contain;" alt="Generative AI Applications Specialist" loading="lazy"/>
-      </a>
-    </td>
-    <td width="25%" align="center" style="vertical-align: middle; padding: 10px;">
-      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/05-ai-capstone-deep-learning.png" width="120" height="120" style="object-fit: contain;" alt="AI Capstone Project with Deep Learning" loading="lazy"/>
+        <img src="assets/badges/30-google-data-analytics.png" width="150" height="150" style="object-fit: contain;" alt="Google Data Analytics Professional Certificate" loading="lazy"/>
       </a>
     </td>
   </tr>
   <tr style="vertical-align: middle;">
-    <td width="25%" align="center" style="vertical-align: middle; padding: 10px;">
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
       <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/14-full-stack-capstone.png" width="120" height="120" style="object-fit: contain;" alt="Full Stack Application Development Capstone Project V2" loading="lazy"/>
+        <img src="assets/badges/03-meta-android-developer.png" width="150" height="150" style="object-fit: contain;" alt="Meta Android Developer Certificate" loading="lazy"/>
       </a>
     </td>
-    <td width="25%" align="center" style="vertical-align: middle; padding: 10px;">
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
       <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/06-microservices-serverless.png" width="120" height="120" style="object-fit: contain;" alt="Application Development using Microservices and Serverless" loading="lazy"/>
+        <img src="assets/badges/04-advanced-deep-learning.png" width="150" height="150" style="object-fit: contain;" alt="Advanced Deep Learning Specialist" loading="lazy"/>
       </a>
     </td>
-    <td width="25%" align="center" style="vertical-align: middle; padding: 10px;">
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
       <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/07-kubernetes-essentials.png" width="120" height="120" style="object-fit: contain;" alt="Containers & Kubernetes Essentials" loading="lazy"/>
+        <img src="assets/badges/15-generative-ai-applications.png" width="150" height="150" style="object-fit: contain;" alt="Generative AI Applications Specialist" loading="lazy"/>
       </a>
     </td>
-    <td width="25%" align="center" style="vertical-align: middle; padding: 10px;">
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
       <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="assets/badges/13-react-v2.png" width="120" height="120" style="object-fit: contain;" alt="Front-end Development with React V2" loading="lazy"/>
+        <img src="assets/badges/05-ai-capstone-deep-learning.png" width="150" height="150" style="object-fit: contain;" alt="AI Capstone Project with Deep Learning" loading="lazy"/>
       </a>
+    </td>
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
+      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
+        <img src="assets/badges/14-full-stack-capstone.png" width="150" height="150" style="object-fit: contain;" alt="Full Stack Application Development Capstone Project V2" loading="lazy"/>
+      </a>
+    </td>
+  </tr>
+  <tr style="vertical-align: middle;">
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
+      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
+        <img src="assets/badges/06-microservices-serverless.png" width="150" height="150" style="object-fit: contain;" alt="Application Development using Microservices and Serverless" loading="lazy"/>
+      </a>
+    </td>
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
+      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
+        <img src="assets/badges/07-kubernetes-essentials.png" width="150" height="150" style="object-fit: contain;" alt="Containers & Kubernetes Essentials" loading="lazy"/>
+      </a>
+    </td>
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
+      <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
+        <img src="assets/badges/13-react-v2.png" width="150" height="150" style="object-fit: contain;" alt="Front-end Development with React V2" loading="lazy"/>
+      </a>
+    </td>
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
+    </td>
+    <td width="20%" align="center" style="vertical-align: middle; padding: 10px;">
     </td>
   </tr>
 </table>
