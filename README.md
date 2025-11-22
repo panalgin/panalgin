@@ -214,12 +214,12 @@ const mustafa = {
     </td>
     <td width="12.5%" align="center" style="vertical-align: middle; padding: 5px;">
       <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="https://images.credly.com/images/6387f397-234b-480c-a0a0-4f9d6f8654a8/blob" width="80" height="80" style="object-fit: contain;" alt="Generative AI Engineering with Transformers & LLMs"/>
+        <img src="https://images.credly.com/images/6387f397-234b-480c-a0a0-4f9d6f8654a8/image.png" width="80" height="80" style="object-fit: contain;" alt="Generative AI Engineering with Transformers & LLMs"/>
       </a>
     </td>
     <td width="12.5%" align="center" style="vertical-align: middle; padding: 5px;">
       <a href="https://www.credly.com/users/mustafa-yildiz.dcd91605/badges" target="_blank">
-        <img src="https://images.credly.com/images/954a697e-66c0-45c3-8681-ced968dfa73e/blob" width="80" height="80" style="object-fit: contain;" alt="Generative AI Foundational Models for NLP & Language Understanding"/>
+        <img src="https://images.credly.com/images/954a697e-66c0-45c3-8681-ced968dfa73e/image.png" width="80" height="80" style="object-fit: contain;" alt="Generative AI Foundational Models for NLP & Language Understanding"/>
       </a>
     </td>
     <td width="12.5%" align="center" style="vertical-align: middle; padding: 5px;">
